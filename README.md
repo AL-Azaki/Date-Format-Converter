@@ -20,7 +20,7 @@ Built to practice **JavaScript date manipulation** and enhance skills with **DOM
 ![Date Format Converter Screenshot](screenshot.png)
 
 ## 🌐 Live Demo
-👉 [View it Live on GitHub Pages](https://AL-Azaki.github.io/date-format-converter/)
+👉 [View it Live on GitHub Pages](https://al-azaki.github.io/Date-Format-Converter/)
 
 ## 🚀 How to Use
 1. Enter a date in the input field (e.g., `2025-06-08`).
